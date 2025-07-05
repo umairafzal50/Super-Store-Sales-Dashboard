@@ -1,21 +1,23 @@
-Sales Dashboard in Power BI
+# Sales Dashboard in Power BI
 
 This is a Power BI dashboard project focused on analyzing retail sales data.
 
-🔧 Tools Used:
+### 🔧 Tools Used:
 - Power BI Desktop
 - DAX
 - Excel
 - SQL (for data preparation)
 
-📊 Features:
+### 📊 Features:
 - Sales trends over time
 - Region-wise and category-wise performance
 - Dynamic filters and KPIs
 - Profit margin and revenue breakdowns
 
-💡 Insights:
+### 💡 Insights:
 - Helps businesses identify high-performing products and regions
 - Supports strategic sales decisions based on historical data
+
+
 
 
